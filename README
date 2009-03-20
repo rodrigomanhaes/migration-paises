@@ -1,0 +1,16 @@
+Migration para os países do mundo.
+
+Não posso afirmar que são realmente todos os países do mundo, mas creio ser um bom começo.
+
+Disponível em duas versões:
+
+1) Contendo apenas o nome dos países
+
+Deve ser criado o model 
+pais nome:string
+
+
+2) Contendo o nome dos países e os gentílicos masculino e feminino
+
+Deve ser criado o model
+pais nome:string gentilico:string gentilico_feminino:string
